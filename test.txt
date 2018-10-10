@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-how are you
-=======
-Hi, Venkat how are you man
->>>>>>> 90cdf1ad264f51aa7c0af2a792d9fc1342238937
